@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "211426344604",
+    "project_id": "reddypushnotification",
+    "storage_bucket": "reddypushnotification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211426344604:android:60492a85d21092c914f759",
+        "android_client_info": {
+          "package_name": "com.example.reddypushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211426344604-6h37uhk3jktqg1mk0irgiam0j6vnl3cs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCggfPTtPWW9jG8sHcec9SBzOCqBeQW348"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211426344604-6h37uhk3jktqg1mk0irgiam0j6vnl3cs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
